@@ -115,6 +115,7 @@
     <ClInclude Include="Libery.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Air.cpp" />
     <ClCompile Include="GruzoPerevoz.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>

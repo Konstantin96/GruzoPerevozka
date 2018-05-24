@@ -12,4 +12,6 @@ public:
 	void SetTime(int time);
 	int GetCost();
 	void SetCost(int cost);
+	virtual void Show();
+	
 };

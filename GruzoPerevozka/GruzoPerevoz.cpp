@@ -25,3 +25,9 @@ void Gruzo_Perevozka::SetCost(int cost)
 {
 	this->cost = cost;
 }
+
+void Gruzo_Perevozka::Show()
+{
+	cout << "\n               time: " << time;
+	cout << ";\n                cost: " << cost << endl;
+}
