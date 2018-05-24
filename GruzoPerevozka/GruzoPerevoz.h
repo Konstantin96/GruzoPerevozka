@@ -13,5 +13,4 @@ public:
 	int GetCost();
 	void SetCost(int cost);
 	virtual void Show();
-	
 };

@@ -18,6 +18,8 @@ void Gruzo_Perevozka::SetTime(int time)
 
 int Gruzo_Perevozka::GetCost()
 {
+	int rastoyanie = 0;
+	cost = rastoyanie*time;
 	return cost;
 }
 
